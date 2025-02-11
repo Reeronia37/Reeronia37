@@ -35,9 +35,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Reeronia37/Reeronia37/output/snake.svg" alt="Snake animation" />
-
-###
